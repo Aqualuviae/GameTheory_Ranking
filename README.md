@@ -1,4 +1,4 @@
-# GameTheory_Ranking
+# Game Theory Ranking Simulation
 
 ## Overview
 
